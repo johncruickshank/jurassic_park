@@ -1,5 +1,4 @@
-var Dinosaur = function(name, type, annualOffspring) {
-  this.name = name;
+var Dinosaur = function(type, annualOffspring) {
   this.type = type;
   this.annualOffspring = annualOffspring;
 };
